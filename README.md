@@ -2,7 +2,8 @@
 
 This repository (or this page) collects and references all the **official addons** maintained by the Evergine Team.
 
-> 📦 These addons extend Evergine with extra functionality and integrate with specialized domains (e.g. AR/VR, medical imaging, point clouds, etc.).
+This README serves as a **centralized hub** for all the addons maintained by the Evergine Team.  
+You can find more information about each addon by clicking on the links below.
 
 ## Available Addons
 
@@ -27,3 +28,7 @@ You can click each link to go to the respective addon’s GitHub repository.
 
 This README serves as a **centralized hub** for all the addons maintained by the Evergine Team.  
 You can find more information about each addon by clicking on the links below.
+
+## License
+
+Each addon is maintained under its own license (see the corresponding repository for details).
